@@ -1,0 +1,95 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+header h1 {
+  text-align: center;
+  font-size: 5rem;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  margin-left: 3rem;
+  flex-wrap: wrap;
+}
+main div.javascript {
+  width: 33%;
+}
+main div.javascript img {
+  width: 350px;
+  height: 30vh;
+  margin: 2rem;
+}
+main div.javascript p {
+  text-align: left;
+  margin-left: 2.5rem;
+}
+main div.python {
+  width: 33%;
+}
+main div.python img {
+  width: 350px;
+  height: 30vh;
+  margin: 2rem;
+}
+main div.python p {
+  text-align: left;
+  margin-left: 2.5rem;
+}
+main div.sql {
+  width: 33%;
+}
+main div.sql img {
+  width: 350px;
+  height: 30vh;
+  margin: 2rem;
+}
+main div.sql p {
+  text-align: left;
+  margin-left: 2.5rem;
+}
+main div.datastructure {
+  width: 33%;
+}
+main div.datastructure img {
+  width: 350px;
+  height: 30vh;
+  margin: 2rem;
+}
+main div.datastructure p {
+  text-align: left;
+  margin-left: 2.5rem;
+}
+main div.discrete {
+  width: 33%;
+}
+main div.discrete img {
+  width: 350px;
+  height: 30vh;
+  margin: 2rem;
+}
+main div.discrete p {
+  text-align: left;
+  margin-left: 2.5rem;
+}
+main div.algebra {
+  width: 33%;
+}
+main div.algebra img {
+  width: 350px;
+  height: 30vh;
+  margin: 2rem;
+}
+main div.algebra p {
+  text-align: left;
+  margin-left: 2.5rem;
+}/*# sourceMappingURL=style.css.map */
