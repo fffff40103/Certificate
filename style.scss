@@ -23,9 +23,9 @@ main{
     width:100%;
     height:100vh;
     margin-left:3rem;
-    
-    
     flex-wrap: wrap;
+    flex-basis:1000px;
+    margin-left: 0.5rem;
     
     div.javascript{
         width:33%;
@@ -108,4 +108,66 @@ main{
             margin-left:2.5rem;
         }
     }
+}
+
+
+@media screen and (max-width:800px){
+
+    header{
+        h1{
+            margin-left: 3.5rem;
+        }
+    }
+    main{
+      width:100%;
+      div.javascript{
+        width:100%;
+        img{
+            width:100%;
+            height:30vh;
+        }
+      }
+
+      div.python{
+        width:100%;
+        img{
+            width:100%;
+            height:30vh;
+        }
+      }
+
+      div.sql{
+        width:100%;
+        img{
+            width:100%;
+            height:30vh;
+        }
+      }
+
+      div.datastructure{
+        width:100%;
+        img{
+            width:100%;
+            height:30vh;
+        }
+      }
+
+      div.discrete{
+        width:100%;
+        img{
+            width:100%;
+            height:30vh;
+        }
+      }
+
+      div.algebra{
+        width:100%;
+        img{
+            width:60%;
+            height:30vh;
+        }
+      }
+    
+    }
+
 }
