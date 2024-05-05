@@ -1,7 +1,7 @@
 # Certificate
 
 
-[學習證書](https://fffff40103.github.io/Certificate/)
+[學習證書](https://scottcertifications.netlify.app/)
 
 1.網頁開發
 
