@@ -3,9 +3,9 @@
 
 [學習證書](https://scottcertifications.netlify.app/)
 
-1.網頁開發
+1.Java
 
-2.Python
+2.網頁開發
 
 3.MYSQL
 
@@ -14,3 +14,5 @@
 5.離散數學
 
 6.線性代數
+
+7.Python
